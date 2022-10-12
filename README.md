@@ -1,1 +1,1 @@
-# python_labs
+Zadanka z pythona ;v

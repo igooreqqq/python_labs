@@ -1,1 +1,1 @@
-Zadanka z pythona ;v
+#Zadanka z pythona ;v
